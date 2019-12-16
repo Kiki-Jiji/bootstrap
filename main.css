@@ -5,7 +5,7 @@ body {
 }
 
 .navbar {
-  background: Blue;
+  background: #ED9EBE;
 }
 
 .nav-link {
@@ -106,7 +106,7 @@ body {
 
 .home-newsletter {
 padding: 80px 0;
-background: #f84e77;
+background: #ED9EBE;
 }
 
 .home-newsletter .single {
